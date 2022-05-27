@@ -1,2 +1,2 @@
 # nlp
-# I want to use sentiment analysis on comments on reviews of various cities. I find that people tend to be pretty negative about places, so I want to test this out
+# Not much to see here - just making a note of this idea. I'd like to do sentiment analysis of city reviews. I've noticed that people are often very negative about places (when they write about them online, anyway), so I'd like to put that to the test. 
